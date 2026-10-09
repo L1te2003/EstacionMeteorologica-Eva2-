@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196104562616",
+    "firebase_url": "https://estacion-meteorologica-i-50590-default-rtdb.firebaseio.com",
+    "project_id": "estacion-meteorologica-i-50590",
+    "storage_bucket": "estacion-meteorologica-i-50590.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196104562616:android:a204e89b342775633a914d",
+        "android_client_info": {
+          "package_name": "com.lunasazo.estacionmeteorologica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196104562616-pdc8bcmhgh0a44q2sura1k977j147gh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZ5MOWGEZ-YIzha8SmAjKuIdu4Ff3KGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196104562616-pdc8bcmhgh0a44q2sura1k977j147gh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
